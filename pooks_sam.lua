@@ -47,12 +47,12 @@ function init_gear_sets()
     sets.precast.JA['Warding Circle'] = {head="Wakido Kabuto"}
     sets.precast.JA['Blade Bash'] = {hands="Sakonji Kote"}
 	
-	-- Waltz set (chr and vit)
+    -- Waltz set (chr and vit)
     sets.precast.Waltz = {ammo="Sonia's Plectrum",head="Yaoyotl Helm",
         body="Mikinaak Breastplate",hands="Wakido Kote +1",ring1="Spiral Ring",
         back="Shadow Mantle",legs="Wakido Haidate +1",feet="Otronif Boots +1"}
 		
-	-- Weaponskill sets
+    -- Weaponskill sets
     -- Default set for any weaponskill that isn't any more specifically defined
     sets.precast.WS = 
 		{
