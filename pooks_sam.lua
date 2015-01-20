@@ -57,15 +57,15 @@ function init_gear_sets()
     sets.precast.WS = 
 		{
 		range="Cibitshavore",
-        head="Gavialis Helm",
+        	head="Gavialis Helm",
 		neck="Ganesha's Mala",
 		ear1="Brutal Earring",
 		ear2="Moonshade Earring",
-        body="Phorcys Korazin",
+		body="Phorcys Korazin",
 		hands="Miki. Gauntlets",
 		ring1="Pyrosoul Ring",
 		ring2="Pyrosoul Ring",
-        back="Buquwik Cape",
+        	back="Buquwik Cape",
 		waist="Prosilio Belt",
 		legs="Wakido Haidate +1",
 		feet="Sak. Sune-Ate +1"
@@ -77,16 +77,16 @@ function init_gear_sets()
 	sets.precast.WS['Tachi: Gekko'] = set_combine(sets.precast.WS, {neck="Snow Gorget",waist="Snow Belt"})
 	sets.precast.WS['Tachi: Yukikaze'] = set_combine(sets.precast.WS, {neck="Snow Gorget",waist="Snow Belt"})
 	sets.precast.WS['Tachi: Ageha'] = set_combine(sets.precast.WS, {neck="Soil Gorget",waist="Soil Belt"})
-    sets.precast.WS['Tachi: Jinpu'] = set_combine(sets.precast.WS, {neck="Soil Gorget",waist="Soil Belt"})
+    	sets.precast.WS['Tachi: Jinpu'] = set_combine(sets.precast.WS, {neck="Soil Gorget",waist="Soil Belt"})
 	sets.precast.WS['Tachi: Rana'] = set_combine(sets.precast.WS, {body="Mes. Haubergeon",neck="Snow Gorget",waist="Windbuffet Belt +1",ear1="Bladeborn Earring",ear2="Steelflash Earring",back="Atheling Mantle"})
 	sets.precast.WS['Tachi: Kasha'] = set_combine(sets.precast.WS, {neck="Light Gorget",waist="Light Belt"})
 	
 	-- Resting sets
-    sets.resting = {neck="Wiglen Gorget",ring1="Sheltered Ring",ring2="Paguroidea Ring"}
+    	sets.resting = {neck="Wiglen Gorget",ring1="Sheltered Ring",ring2="Paguroidea Ring"}
     
 
     -- Idle sets (default idle set not needed since the other three are defined, but leaving for testing purposes)
-    sets.idle.Town = {main="Tsurumaru", sub="Bloodrain Strap",range="Cibitshavore",
+    	sets.idle.Town = {main="Tsurumaru", sub="Bloodrain Strap",range="Cibitshavore",
         head="Gavialis Helm",neck="Twilight Torque",ear1="Bladeborn Earring",ear2="Steelflash Earring",
         body="Emet Harness +1",hands="Wakido Kote +1",ring1="Sheltered Ring",ring2="Paguroidea Ring",
         back="Shadow Mantle",waist="Flume Belt",legs="Otronif Brais +1",feet="Danzo Sune-ate"}
