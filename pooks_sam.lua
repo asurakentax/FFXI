@@ -85,8 +85,8 @@ function init_gear_sets()
     	sets.resting = {neck="Wiglen Gorget",ring1="Sheltered Ring",ring2="Paguroidea Ring"}
     
 
-    -- Idle sets (default idle set not needed since the other three are defined, but leaving for testing purposes)
-    sets.idle.Town = {main="Tsurumaru", sub="Bloodrain Strap",range="Cibitshavore",
+	-- Idle sets (default idle set not needed since the other three are defined, but leaving for testing purposes)
+    	sets.idle.Town = {main="Tsurumaru", sub="Bloodrain Strap",range="Cibitshavore",
         head="Gavialis Helm",neck="Twilight Torque",ear1="Bladeborn Earring",ear2="Steelflash Earring",
         body="Emet Harness +1",hands="Wakido Kote +1",ring1="Sheltered Ring",ring2="Paguroidea Ring",
         back="Shadow Mantle",waist="Flume Belt",legs="Otronif Brais +1",feet="Danzo Sune-ate"}
