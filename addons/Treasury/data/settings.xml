@@ -1,0 +1,19 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoDrop>false</AutoDrop>
+        <AutoStack>true</AutoStack>
+        <Delay>0</Delay>
+        <Drop />
+        <Lot />
+        <Pass />
+        <Verbose>false</Verbose>
+    </global>
+    <buuuram>
+        <Lot>S. Kindred Crest</Lot>
+        <Pass>Zinc Ore,Earth Crystal,Flint Stone,Silver Ore,Copper Ore</Pass>
+    </buuuram>
+    <dirkon>
+        <Pass>Copper Ore,Zinc Ore,Rabbit Hide,Flint Stone,Snow Geode,Silver Ore,Hare Meat,Earth Crystal</Pass>
+    </dirkon>
+</settings>

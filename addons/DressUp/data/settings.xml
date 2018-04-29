@@ -1,0 +1,98 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autoupdate>false</autoupdate>
+        <blinking>
+            <all>
+                <always>true</always>
+                <combat>false</combat>
+                <target>false</target>
+            </all>
+            <follow>
+                <always>false</always>
+                <combat>false</combat>
+                <target>false</target>
+            </follow>
+            <others>
+                <always>false</always>
+                <combat>false</combat>
+                <target>false</target>
+            </others>
+            <party>
+                <always>false</always>
+                <combat>false</combat>
+                <target>false</target>
+            </party>
+            <self>
+                <always>false</always>
+                <combat>false</combat>
+                <target>false</target>
+            </self>
+        </blinking>
+        <buuuram>
+            <face>3</face>
+            <race>2</race>
+        </buuuram>
+        <dirkon>
+            <face>10</face>
+            <race>7</race>
+        </dirkon>
+        <ksb>
+
+        </ksb>
+        <others>
+
+        </others>
+        <profiles>
+            <run>
+                <main>25338</main> <!-- Twashtar -->
+            </run>
+            <thf>
+                <main>25147</main> <!-- Twashtar -->
+                <sub>25147</sub>   <!-- Twashtar -->
+            </thf>
+        </profiles>
+        <replacements>
+            <body>
+            <!-- Rogue's Vest -->
+
+            </body>
+            <face>
+
+            </face>
+            <feet>
+            <!-- Rogue's Poulaines -->
+
+            </feet>
+            <hands>
+            <!-- Rogue's Armlets -->
+
+            </hands>
+            <head>
+            <!-- Felistris Mask -->
+
+            </head>
+            <legs>
+            <!-- Rogue's Culottes -->
+
+            </legs>
+            <main>
+            <!-- Twashtar -->
+
+            </main>
+            <race>
+
+            </race>
+            <ranged>
+
+            </ranged>
+            <sub>
+            <!-- Twashtar -->
+
+            </sub>
+        </replacements>
+        <stewiee>
+
+        </stewiee>
+    </global>
+</settings>

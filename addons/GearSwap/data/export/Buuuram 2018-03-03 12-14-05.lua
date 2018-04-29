@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Lathi", augments={'INT+15','"Mag.Atk.Bns."+15','Mag. Acc.+15',}},
+    sub="Niobid Strap",
+    ammo="Impatiens",
+    head="Befouled Crown",
+    body={ name="Amalric Doublet +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    hands={ name="Merlinic Dastanas", augments={'Pet: Haste+2','Crit.hit rate+2','"Refresh"+1','Accuracy+18 Attack+18','Mag. Acc.+16 "Mag.Atk.Bns."+16',}},
+    legs="Assid. Pants +1",
+    feet={ name="Merlinic Crackows", augments={'Mag. Acc.+24 "Mag.Atk.Bns."+24','Magic burst dmg.+7%','CHR+7',}},
+    neck="Twilight Torque",
+    waist="Fucho-no-Obi",
+    left_ear="Etiolation Earring",
+    right_ear="Genmei Earring",
+    left_ring="Defending Ring",
+    right_ring="Vertigo Ring",
+    back={ name="Bane Cape", augments={'Elem. magic skill +9','Dark magic skill +10','"Mag.Atk.Bns."+3','"Fast Cast"+3',}},
+}
